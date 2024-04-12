@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275302558596",
+    "project_id": "absensi-20583",
+    "storage_bucket": "absensi-20583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275302558596:android:6973bec59e3bb3a55d8bd1",
+        "android_client_info": {
+          "package_name": "com.talentiva.absensi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJHayvLmBV4rOcMbda4r1t8mtmp89cxwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

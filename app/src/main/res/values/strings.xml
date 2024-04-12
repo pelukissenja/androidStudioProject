@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">absensi</string>
+    <string name="hi_there_happy_to_see_you_here">Hi, There! Happy to see you here!</string>
+    <string name="engage_home">Jadikan pekerjaan di sekolahmu lebih mudah dalam satu genggaman</string>
+    <string name="getting_started">Getting Started!</string>
+    <string name="nama_instansi">Nama Instansi</string>
+    <string name="email_instansi">Email Instansi</string>
+    <string name="nama_kepala_sekolah">Nama Kepala Sekolah</string>
+    <string name="formulir_pendaftaran">Formulir Pendaftaran</string>
+    <string name="nip_kepala_sekolah">NIP Kepala Sekolah</string>
+    <string name="kontak_hp_instansi">Kontak/HP Instansi</string>
+    <string name="logo_instansi">Logo Instansi</string>
+    <string name="alamat_lengkap_instansi">Alamat Lengkap Instansi</string>
+    <string name="register">Register</string>
+</resources>
